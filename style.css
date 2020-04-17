@@ -257,6 +257,15 @@ padding: 10px 0;
 .cta-btn{background-color: #00AEEF;border-color: #00AEEF;text-transform: capitalize !important;letter-spacing: 0.5px;font-weight: 600;font-size:18px !important;font-family: 'Heebo', sans-serif !important;padding: 15px 40px !important;color: #fff;border-radius: 5px !important;margin: 0px 0;}
 .cta-btn:hover{color: #fff;background: #0295AA}
 
+.privacy-block {padding: 80px 0;position: relative;margin-bottom: 0;}
+.privacy-block .col1{width: 100%;}
+.privacy-block .col1 h2{color: #000;font-size: 38px;font-weight: 600;}
+.privacy-block .col2{width: 35%;}
+.privacy-block p{color: #5A5A5F}
+.privacy-block ul{margin-left: 20px;}
+.privacy-block li{color: #5A5A5F; line-height: 30px}
+
+
 .process-block{background: url(assets/img/banner-work.jpg) center center no-repeat;padding: 116px 0 80px;position: relative;background-repeat: no-repeat;background-size: cover;z-index: 5;}
 .process-block:after{background: rgba(0,0,0,0.8);position:absolute;left: 0;top:0;width: 100%;height:100%;content: '';z-index: -1;}
 .process-block h2{color: #f5f5f5;text-transform: none;margin: 0 0 35px;font-size: 38px;font-weight: 500;}
@@ -322,6 +331,10 @@ img {}
 .contact-block ul.contact-info li.email{background: url(assets/img/mail-icon.svg) left center no-repeat;}
 .contact-block ul.contact-info li.address{background: url(assets/img/map-icon.svg) left 5px no-repeat;}
 .contact-block ul.contact-info li.hours{background: url(assets/img/iconclock.svg) left 5px no-repeat;}
+
+.policy-block{padding: 10px 0;position: relative;background: #F6F6F6;}
+.policy-block a {color: #8693A2;font-size: 15px;}
+
 
 .wpcf7-form div.two-col{margin: 0 0 20px;}
 .wpcf7-form div.two-col div{display: inline-block;width: 48%;margin: 0 0 0 2%;position: relative;}
